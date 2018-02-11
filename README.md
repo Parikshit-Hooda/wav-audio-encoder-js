@@ -35,7 +35,7 @@ encoder = new WavAudioEncoder(sampleRate, numChannels)
 Create an encoder object.
 
 * Parameters
-    * `samleRate`: sampling rate [Hz]
+    * `sampleRate`: sampling rate [Hz]
     * `numChannels`: number of audio channels
 * Returns
     * encoder object
